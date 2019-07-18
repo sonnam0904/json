@@ -1,0 +1,14 @@
+{
+  "photo": [
+    { "id": 1, "title": "Ảnh số 1", "url":"https://ttol.vietnamnetjsc.vn/images/2018/05/25/13/40/net-cuoi-be-gai-5-1527053440031984418330.jpg" },
+    { "id": 2, "title": "Ảnh số 2", "url:"https://icdn.dantri.com.vn/thumb_w/640/2018/5/23/net-cuoi-be-gai-9-1527053440039156820618.jpg"},
+    { "id": 3, "title": "Ảnh số 3", "url":"https://ttol.vietnamnetjsc.vn/images/2018/05/25/13/40/net-cuoi-be-gai-3-15270534400282101609169.jpg" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

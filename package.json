@@ -1,6 +1,6 @@
 {
   "scripts": {
     "build": "next build"
-  }
+  },
   "license":"Sonnn"
 }
